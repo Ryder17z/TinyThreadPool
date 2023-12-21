@@ -1,2 +1,2 @@
 # TinyThreadPool
-C++11 tiny thread pool 
+C++17 tiny thread pool 
