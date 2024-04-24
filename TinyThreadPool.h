@@ -1,8 +1,7 @@
 #ifndef THREAD_POOL_H
 #define THREAD_POOL_H
 
-// originally from https://github.com/xiaoshengMr/TinyThreadPool but updated for C++17
-// Changed 'result_of' to 'invoke_result_t' as it is not a member of 'std' in C++17
+// Changes in 2023: Changed 'result_of' to 'invoke_result_t' as it is not a member of 'std' in C++17
 
 #include <vector>
 #include <queue>
